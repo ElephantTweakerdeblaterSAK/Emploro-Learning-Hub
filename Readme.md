@@ -4,7 +4,7 @@
 This hub is for people who want to explorer the world of best free tweakers and more I will provide links to projects I really like and where you can find them.
 I will be adding more here soon.
 
-For a lor of these you need nsudo,  minsudo , powerrun
+For a lot of these you need nsudo,  minsudo , powerrun. Hone and CoutX do not need nsudo as they have built in appliers or tweaks that don't need nsudo 
 
 
 
